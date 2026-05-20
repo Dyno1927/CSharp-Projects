@@ -25,7 +25,6 @@ Focused on problem-solving, object-oriented programming, logic building, and app
 | Project | Description | Concepts Used |
 |---|---|---|
 | 🏦 Banking System | Terminal-based banking management system with account operations | OOP, Classes, Methods |
-| 🧠 Logic Practice Programs | Small programs made for improving problem-solving skills | Arrays, Loops, Functions |
 
 ---
 
@@ -49,20 +48,6 @@ Or build manually:
 
 ```bash
 dotnet build
-```
-
----
-
-## 📈 Concepts Covered
-
-```text
-Variables & Data Types
-→ Conditions & Loops
-→ Functions & Methods
-→ Arrays & Collections
-→ Object-Oriented Programming
-→ Classes & Objects
-→ Console Applications
 ```
 
 ---
