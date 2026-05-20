@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Simple Games", "Simple Games", "{D5BC70AB-E2D2-45C7-83D1-CF19955F1BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Guessing Game", "Simple Games\Number Guessing Game\Number Guessing Game.csproj", "{98AB186F-A80E-4E6F-812A-49F0B6C5BECB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Simple Projects", "Simple Projects", "{141C047F-8515-431D-B581-E6C44A2B77AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking System", "Simple Projects\Banking System\Banking System.csproj", "{8D112976-77E2-4F4C-93F9-6BC12B4224F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98AB186F-A80E-4E6F-812A-49F0B6C5BECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AB186F-A80E-4E6F-812A-49F0B6C5BECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AB186F-A80E-4E6F-812A-49F0B6C5BECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AB186F-A80E-4E6F-812A-49F0B6C5BECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D112976-77E2-4F4C-93F9-6BC12B4224F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D112976-77E2-4F4C-93F9-6BC12B4224F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D112976-77E2-4F4C-93F9-6BC12B4224F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D112976-77E2-4F4C-93F9-6BC12B4224F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{98AB186F-A80E-4E6F-812A-49F0B6C5BECB} = {D5BC70AB-E2D2-45C7-83D1-CF19955F1BED}
+		{8D112976-77E2-4F4C-93F9-6BC12B4224F9} = {141C047F-8515-431D-B581-E6C44A2B77AB}
+	EndGlobalSection
+EndGlobal
